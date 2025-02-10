@@ -1,0 +1,11 @@
+idea
+.vscode
+.DS_STORE
+.DS_Store
+__pycache__
+.venv
+output/*
+!output/.gitkeep
+addresses.txt
+private_keys.txt
+recipients.txt
