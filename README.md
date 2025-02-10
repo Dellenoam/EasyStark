@@ -24,6 +24,10 @@ Script for various tasks in the StarkNet network
       <td>Transfer ETH and other tokens from one wallet to another</td>
       <td>✅</td>
     </tr>
+    <tr>
+      <td>Wallet generator</td>
+      <td><img src="https://img.shields.io/badge/TODO-in%20progress-orange" alt="TODO Badge"></td>
+    </tr>
   </tbody>
 </table>
 
